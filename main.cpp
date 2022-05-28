@@ -11,7 +11,7 @@ using std::string;
 using std::vector;
 
 int main() {
-  string filename("test.tcm");
+  string filename("test.tm");
   vector<char> bytes;
   bool cond = true;
   char byte = 0;

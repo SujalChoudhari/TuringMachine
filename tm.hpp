@@ -8,7 +8,7 @@ struct TM{
 
     int counter= 0;
 
-    TCM(){
+    TM(){
 		for (int i= 0; i<max;i++){
 			mem[i] = false;
 		}
